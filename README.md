@@ -1,4 +1,5 @@
 # PYTHON
 Curso Introdução ao Python - UFPE
+Realizado em 2017
 
-Aqui segue alguns exercícios e o miniprojeto de conclusão do curso.
+Aqui seguem alguns exercícios e o miniprojeto de conclusão do curso.
