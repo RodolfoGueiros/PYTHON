@@ -1,4 +1,4 @@
 # PYTHON
 Curso Introdução ao Python - UFPE
 
-Aqui segue alguns exercícios e miniprojeto de conclusão do curso.
+Aqui segue alguns exercícios e o miniprojeto de conclusão do curso.
